@@ -1,8 +1,13 @@
-# HellKid: Hook & Jump 2.1
+# HellKid: Hook & Jump 2.2
 
 Versão web do clássico de iPhone, modernizada mantendo a arte e a física originais.
 
 **Jogar:** https://vgppb.github.io/hellkid/
+
+## Novidades da 2.2
+- Telas iniciais, lobby, aberturas e fim de jogo também em tela cheia, com botões presos às bordas respeitando o notch
+- Tema **Cartoon** exagerado: contorno grosso, cel-shading, linhas de tinta no cenário, retícula de HQ, linhas de velocidade, squash & stretch e textos estilo quadrinho
+- Tema **3D** exagerado: relevo forte com luz da lava, plataformas com tampo em perspectiva, almas girando como moedas, câmera que inclina e aproxima, paralaxe profunda e texto extrudado
 
 ## Novidades da 2.1
 - Gráficos em alta resolução: todas as texturas ampliadas 2x com IA (Real-ESRGAN anime) e comprimidas em WebP
