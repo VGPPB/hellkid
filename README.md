@@ -1,0 +1,19 @@
+# HellKid: Hook & Jump 2.0
+
+Versão web do clássico de iPhone, modernizada mantendo a arte e a física originais.
+
+**Jogar:** https://vgppb.github.io/hellkid/
+
+## Novidades da 2.0
+- Partículas e iluminação: brasas subindo da lava, brilho nas almas, explosões ao coletar, fumaça e vinheta
+- Tremor de tela, flashes e câmera lenta na morte
+- Combo de gancho: ganchos seguidos sem pisar no chão dão pontos extras (HOOK x2, x3…)
+- Marcador do seu recorde de distância na pista e placas a cada 100 m
+- "Coyote time": dá para pular logo após sair da beirada
+- Resolução nativa (nítido em qualquer tela) e fundo ambiente nas bordas
+- Fonte nova, atributos dos personagens (pulo, flutuação, gancho), recordes por mapa
+- Tela de estatísticas; opções de efeitos visuais, tremor, vibração e tela cheia
+- Pausa ilimitada com botão Reiniciar
+- Teclado: Espaço/↑/W pular e lançar · Esc/P pausar · R reiniciar · Enter confirmar · F tela cheia
+
+Fonte Lilita One © Juan Montoreano, licença SIL OFL 1.1.
